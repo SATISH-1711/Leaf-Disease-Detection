@@ -7,8 +7,8 @@ This project is a deep learning model built using **TensorFlow and Keras** to de
 ## 🧠 Project Highlights
 
 - Built with **Convolutional Neural Networks (CNN)**
-- Uses **ImageDataGenerator** for data augmentation and preprocessing
-- Trained on a custom dataset of plant leaf images
+- Uses **ImageDataGenerator** for data augmentation and preprocessing.
+- Trained on a custom dataset of plant leaf images.
 - Classifies leaves as:
   - `healthy`
   - `diseased_type1`
